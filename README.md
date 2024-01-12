@@ -15,7 +15,7 @@ pip install lap
 * El modelo de YOLO empleado identifica coches, autobuses, camiones y furgonetas, con diferentes variantes según el tamaño.
 * Para controlar las entradas y salidas, se añadió un contador a una altura en pixeles determinada.
 
-La aplicación mostrará lo siguiente:
+La aplicación mostrará algo similar a lo siguiente:
 
 ![Captura de pantalla 2024-01-12 162626](https://github.com/alvarotrancho/Trabajo-VC/assets/113598358/44b228cf-fe16-454d-9956-2bec187bed97)
 
